@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+notification_audit.jsonl
+recent_notifications.json
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.env
