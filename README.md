@@ -40,6 +40,8 @@ Apple Watch 并不直接连接 Codex。手表能否收到提醒，取决于 iPho
 ### 1. 下载脚本
 
 ```bash
+git clone https://github.com/I024px/codex-bark-watch-notifier.git
+cd codex-bark-watch-notifier
 mkdir -p ~/.codex/notifications
 cp codex_notify_dispatcher.py ~/.codex/notifications/
 cp setup_codex_bark_keychain.sh ~/.codex/notifications/
